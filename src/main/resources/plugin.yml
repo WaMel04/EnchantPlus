@@ -1,0 +1,15 @@
+name: EnchantPlus
+version: '${project.version}'
+main: com.wamel.enchantplus.EnchantPlus
+author: WaMel_
+description: "추가적인 인챈트를 할 수 있는 플러그인입니다."
+
+commands:
+  ep:
+    description: "인챈트+ 명령어입니다."
+  인챈트도감:
+    description: "인챈트+ 도감을 엽니다."
+  epb:
+    description: "인챈트+ 도감을 엽니다."
+  epbook:
+    description: "인챈트+ 도감을 엽니다."
