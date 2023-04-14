@@ -1,0 +1,4 @@
+# Optimization Mode
+# When the mode is active, Disables options that cause lag, such as particles
+# Default value: false
+optimization-mode: false
